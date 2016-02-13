@@ -12,10 +12,10 @@ An Android based home thermostat project.  For full details see AndroidThermosta
 
 ## MatthGyver update
 
-Migrate project from Eclipse to AndroidStudio
+Migrate project from Eclipse to AndroidStudio.<br>
 My modifications is compatible with Android 4+ (tested on Nexus / KitKat)
 
-Now it is not necessary to activate the USB debug mode.
+Now it is not necessary to activate the USB debug mode.<br>
 Weather are updated with last Openweathermap API.
 
 I'm not a developer and provided this version <b>without any warranty so use this version to your own risk.</b>
