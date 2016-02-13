@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

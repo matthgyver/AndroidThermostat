@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.androidthermostat.server.iml" filepath="$PROJECT_DIR$/com.androidthermostat.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comandroidthermostatserver/comandroidthermostatserver.iml" filepath="$PROJECT_DIR$/comandroidthermostatserver/comandroidthermostatserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iOIOLibAccessory/iOIOLibAccessory.iml" filepath="$PROJECT_DIR$/iOIOLibAccessory/iOIOLibAccessory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iOIOLibAndroid/iOIOLibAndroid.iml" filepath="$PROJECT_DIR$/iOIOLibAndroid/iOIOLibAndroid.iml" />
+    </modules>
+  </component>
+</project>

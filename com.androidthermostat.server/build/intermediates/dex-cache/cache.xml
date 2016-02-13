@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mtsimon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/gson-2.2.2_2cee84724ab8a57e9180cf4bae551e787a3ba4ed.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/libs/httpcore-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1c4e0e70bbd32cd6a1dbf970da95e64a0821ff9">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/httpcore-4.2.1_1876055295d7bad9124dd67bbb3ff8b80e3edc79.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/libs/httpcore-ab-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad4798acf47382f2b6d5572a880e596dacddfde6">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/httpcore-ab-4.2.1_67a41796bab2588f1e70c5a281a5ad198df740e6.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/exploded-aar/com.androidthermostat.server/iOIOLibAndroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60378d73ee8dd8a725b422ec49849528f713749d">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/com.androidthermostat.server-iOIOLibAndroid-unspecified_d3192fecb5a3aa703b2902d891975106b6e14427.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/libs/httpcore-nio-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0de9f5d108746458c899b4857871706ace00c2dd">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/httpcore-nio-4.2.1_87204068a5a0aed4cb10d9c53f650365264d58b1.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/support-v4-18.0.0_7c7a81499b8360150a78b966a27a1dc090529dc6.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/exploded-aar/com.androidthermostat.server/iOIOLibAccessory/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5153c005525e2e294b01133a312ee1ad7381d24f">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/pre-dexed/release/com.androidthermostat.server-iOIOLibAccessory-unspecified_d8270ceb85e1f36da24b7b92ebd5c440f6800956.jar" />
+    </item>
+
+</items>

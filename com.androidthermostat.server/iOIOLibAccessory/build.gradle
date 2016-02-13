@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'matthgyver'
+            keyPassword 'L3d;zeppl1n'
+            storeFile file('/home/mtsimon/Android/Android_keys/matthgyver.jks')
+            storePassword 'L3d;zeppl1n'
+        }
+    }
+    compileSdkVersion 'Google Inc.:Google APIs:12'
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':iOIOLibAndroid')
+}

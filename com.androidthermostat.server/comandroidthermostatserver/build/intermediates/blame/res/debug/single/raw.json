@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/res/merged/debug/raw/webserver_html",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/src/main/res/raw/webserver_html"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/res/merged/debug/raw/webserver_js",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/src/main/res/raw/webserver_js"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/build/intermediates/res/merged/debug/raw/webserver_css",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.server/comandroidthermostatserver/src/main/res/raw/webserver_css"
+    }
+]

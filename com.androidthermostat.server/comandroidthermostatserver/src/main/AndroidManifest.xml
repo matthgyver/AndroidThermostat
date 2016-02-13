@@ -1,0 +1,43 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidthermostat.server"
+    android:versionCode="9"
+    android:versionName="0.51">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="22" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+	<uses-permission android:name="android.permission.BLUETOOTH" />
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <application android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
+        <uses-library android:name="com.android.future.usb.accessory" android:required="false" />
+
+        <service android:name="IOIOServiceHelper" />
+        <service android:name="MainService" />
+
+        <activity android:name="MainActivity" android:launchMode="singleTask" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED" />
+            </intent-filter>
+            <meta-data android:name="android.hardware.usb.action.USB_ACCESSORY_ATTACHED"
+                android:resource="@xml/accessory_filter" />
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        
+        <receiver android:name="com.androidthermostat.server.BootReceiverHandler" android:enabled="true" android:exported="true" android:label="BootReceiverHandler" android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+    		<intent-filter>
+        		<action android:name="android.intent.action.BOOT_COMPLETED" />
+    		</intent-filter>
+		</receiver>
+
+    </application>
+
+</manifest>
