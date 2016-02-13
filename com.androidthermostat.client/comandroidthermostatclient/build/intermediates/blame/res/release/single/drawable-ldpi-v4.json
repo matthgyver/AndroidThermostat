@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/settings.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/connect.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/connect.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/btn_check_on_disabled_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/btn_check_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_menu_help.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/ic_menu_help.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-ldpi-v4/btn_check_on_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-ldpi/btn_check_on_holo_dark.png"
+    }
+]

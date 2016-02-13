@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 25.0.1 rc2">
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should *not* hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="&lt;ScrollView  xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:atc=&quot;http://schemas.android.com/apk/res/com.androidthermostat.client&quot; android:layout_width=&quot;fill_parent&quot; android:layout_height=&quot;fill_parent&quot;>"
+        errorLine2="                                                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/furnace_settings.xml"
+            line="2"
+            column="84"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should *not* hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="&lt;ScrollView  xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:atc=&quot;http://schemas.android.com/apk/res/com.androidthermostat.client&quot; android:layout_width=&quot;fill_parent&quot; android:layout_height=&quot;fill_parent&quot;>"
+        errorLine2="                                                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/general_settings.xml"
+            line="3"
+            column="84"/>
+    </issue>
+
+    <issue
+        id="ResAuto"
+        severity="Fatal"
+        message="In Gradle projects, always use `http://schemas.android.com/apk/res-auto` for custom attributes"
+        category="Correctness"
+        priority="9"
+        summary="Hardcoded Package in Namespace"
+        explanation="In Gradle projects, the actual package used in the final APK can vary; for example,you can add a `.debug` package suffix in one version and not the other. Therefore, you should *not* hardcode the application package in the resource; instead, use the special namespace `http://schemas.android.com/apk/res-auto` which will cause the tools to figure out the right namespace for the resource regardless of the actual package used during the build."
+        errorLine1="&lt;ScrollView  xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:atc=&quot;http://schemas.android.com/apk/res/com.androidthermostat.client&quot; android:layout_width=&quot;fill_parent&quot; android:layout_height=&quot;fill_parent&quot;>"
+        errorLine2="                                                                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        quickfix="studio">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/usage_settings.xml"
+            line="2"
+            column="84"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/screenLayout`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="     &lt;LinearLayout android:layout_width=&quot;fill_parent&quot; android:layout_height=&quot;wrap_content&quot; android:orientation=&quot;horizontal&quot; android:id=&quot;@+id/screenLayout&quot; >"
+        errorLine2="                                                                                                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/main.xml"
+            line="8"
+            column="125"/>
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/main.xml"
+            line="2"
+            column="74"/>
+    </issue>
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/temperatureRangeHolder`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="      &lt;LinearLayout android:layout_width=&quot;fill_parent&quot; android:layout_height=&quot;wrap_content&quot; android:orientation=&quot;horizontal&quot;  android:id=&quot;@+id/temperatureRangeHolder&quot; >"
+        errorLine2="                                                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/set_temperature.xml"
+            line="30"
+            column="127"/>
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/layout/set_temperature.xml"
+            line="22"
+            column="124"/>
+    </issue>
+
+    <issue
+        id="ValidFragment"
+        severity="Fatal"
+        message="Avoid non-default constructors in fragments: use a default constructor plus `Fragment#setArguments(Bundle)` instead"
+        category="Correctness"
+        priority="6"
+        summary="Fragment not instantiatable"
+        explanation="From the Fragment documentation:
+*Every* fragment must have an empty constructor, so it can be instantiated when restoring its activity&apos;s state. It is strongly recommended that subclasses do not have other constructors with parameters, since these constructors will not be called when the fragment is re-instantiated; instead, arguments can be supplied by the caller with `setArguments(Bundle)` and later retrieved by the Fragment with `getArguments()`."
+        url="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        urls="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        errorLine1=" public ScheduleDayFragment(int scheduleIndex, int dayOfWeek)"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/java/com/androidthermostat/client/ScheduleDayFragment.java"
+            line="39"
+            column="9"/>
+    </issue>
+
+    <issue
+        id="ValidFragment"
+        severity="Fatal"
+        message="Avoid non-default constructors in fragments: use a default constructor plus `Fragment#setArguments(Bundle)` instead"
+        category="Correctness"
+        priority="6"
+        summary="Fragment not instantiatable"
+        explanation="From the Fragment documentation:
+*Every* fragment must have an empty constructor, so it can be instantiated when restoring its activity&apos;s state. It is strongly recommended that subclasses do not have other constructors with parameters, since these constructors will not be called when the fragment is re-instantiated; instead, arguments can be supplied by the caller with `setArguments(Bundle)` and later retrieved by the Fragment with `getArguments()`."
+        url="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        urls="http://developer.android.com/reference/android/app/Fragment.html#Fragment()"
+        errorLine1=" public ScheduleDetailsFragment(int scheduleIndex)"
+        errorLine2="        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/java/com/androidthermostat/client/ScheduleDetailsFragment.java"
+            line="31"
+            column="9"/>
+    </issue>
+
+</issues>

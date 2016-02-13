@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidthermostat.client"
+    android:versionCode="9"
+    android:versionName="0.51" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo" >
+        <activity
+            android:name="com.androidthermostat.client.ServerSelectActivity"
+            android:label="Select Server"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" >
+        </activity>
+        <activity
+            android:name="com.androidthermostat.client.MainActivity"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.androidthermostat.client.SetTemperatureActivity"
+            android:label="Set Temperature"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.SettingsActivity"
+            android:label="Settings"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.SchedulesActivity"
+            android:label="Schedules"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.ScheduleActivity"
+            android:label="Edit Schedule"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.ScheduleTabsFragment"
+            android:label="Edit Schedule"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.CopyScheduleActivity"
+            android:label="Copy this day&apos;s schedule to..."
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+        <activity
+            android:name="com.androidthermostat.client.ScheduleEntryEditActivity"
+            android:label="Edit Schedule Entry"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.Sherlock" />
+    </application>
+
+</manifest>

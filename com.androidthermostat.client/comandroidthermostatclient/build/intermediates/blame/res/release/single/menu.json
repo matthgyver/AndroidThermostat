@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/menu/schedule.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/menu/schedule.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/menu/settings.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/menu/settings.xml"
+    }
+]

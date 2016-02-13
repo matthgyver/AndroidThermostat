@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5bb38fa6f89642531dcb3963ec95c06dbb623559">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/pre-dexed/debug/com.androidthermostat.client-holoEverywhereLib-unspecified_90a37c6d452530393b01d3a396c5d545ef4ebe2d.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/pre-dexed/debug/gson-2.2.2_2cee84724ab8a57e9180cf4bae551e787a3ba4ed.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/pre-dexed/debug/support-v4-18.0.0_7c7a81499b8360150a78b966a27a1dc090529dc6.jar" />
+    </item>
+    <item
+        jar="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/pre-dexed/debug/com.actionbarsherlock-actionbarsherlock-4.4.0_1052f78ffd5ce0a4be1c5768fdaabbc027f64a22.jar" />
+    </item>
+
+</items>

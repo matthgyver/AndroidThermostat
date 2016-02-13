@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__list_menu_item_checkbox.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__search_view.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__search_view.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_mode_close_item.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_mode_close_item.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_indeterminate_horizontal_holo.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_indeterminate_horizontal_holo.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_horizontal_holo_dark.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_bar_tab_bar_view.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__simple_dropdown_hint.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_bar_tab.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__screen_action_bar_overlay.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_indeterminate_horizontal.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view_list_item.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__screen_simple.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__screen_simple.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__popup_menu_item_layout.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/alert_dialog_message.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/alert_dialog_message.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__list_menu_item_radio.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__search_dropdown_item_icons_2line.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__list_menu_item_icon.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__screen_action_bar.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_bar_title_item.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_large_holo.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_large_holo.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/alert_dialog_title.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/alert_dialog_title.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_menu_layout.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_bar_home.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_bar_home.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_menu_item_layout.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/alert_dialog_holo.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/alert_dialog_holo.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/sherlock_spinner_item.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_horizontal_holo_light.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_medium_holo.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_medium_holo.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/sherlock_spinner_dropdown_item.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/progress_small_holo.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/progress_small_holo.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__screen_simple_overlay_action_mode.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/alert_dialog_progress.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/src/main/res/layout/alert_dialog_progress.xml"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/res/merged/debug/layout/abs__action_mode_bar.xml",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/holoEverywhereLib/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/layout/abs__action_mode_bar.xml"
+    }
+]

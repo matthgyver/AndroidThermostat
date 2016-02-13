@@ -1,0 +1,918 @@
+[
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_multiline_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_multiline_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__cab_background_top_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_secondary_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_middle_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_middle_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_bottom_solid_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_divider_horizontal_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_divider_horizontal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_bottom_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__cab_background_top_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_clear_search_api_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_solid_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_search_api_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_ab_back_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_divider_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__cab_background_bottom_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_selector_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_pressed_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_secondary_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_primary_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_pressed_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_bg_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_solid_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_share_pack_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_stacked_solid_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_16_outer_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_16_outer_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_search.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_search.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_activated_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_selector_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_track_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_track_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_transparent_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo5.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo5.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_76_inner_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_76_inner_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_ab_back_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo2.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo2.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_disabled_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate3.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate3.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_transparent_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_full_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_normal_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_normal_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_normal_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disabled_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_clear_normal.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_primary_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_selected_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_disabled_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_48_inner_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_pressed_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_control_pressed_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_bg_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_bg_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__tab_unselected_pressed_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_pressed_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_cab_done_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_menu_help.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/ic_menu_help.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disabled_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_clear_disabled.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo6.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo6.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disabled_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_normal_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_focused_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_bg_disabled_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_bg_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_menu_share_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_control_normal_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__tab_selected_focused_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo7.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo7.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo1.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo1.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_bg_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_bg_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_focused_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disable_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disable_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/menu_dropdown_panel_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_bg_activated_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_bg_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disable_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disable_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_right_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/settings.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_control_focused_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disable_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disable_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_secondary_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_48_outer_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_divider_horizontal_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_divider_horizontal_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_go.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_disabled_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_divider_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disable_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disable_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_48_inner_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_primary_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_16_inner_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_16_inner_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_76_outer_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_76_outer_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_pressed_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_48_outer_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__tab_selected_pressed_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_cab_done_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/menu_dropdown_panel_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_multiline_disabled_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_multiline_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_commit_search_api_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_middle_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_middle_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_activated_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_20_outer_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_20_outer_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_voice_search_api_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_disabled_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_disabled_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disabled_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_pressed_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__tab_selected_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_selected_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disable_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disable_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_full_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_full_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_multiline_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_multiline_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_track_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_disabled_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_disabled_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_top_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_top_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_disabled_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disable_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disable_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_bg_disabled_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_bg_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_disabled_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_disabled_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_share_pack_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_bg_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo8.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo8.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_primary_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_bg_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_normal_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disabled_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/btn_check_on_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_commit_search_api_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo3.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo3.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_disabled_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_disabled_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_disabled_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_multiline_activated_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_multiline_activated_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_voice_search.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_voice_search.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disable_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disable_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_default_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_primary_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_disabled_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_pressed_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_go_search_api_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate_holo4.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate_holo4.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/connect.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/connect.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/list_longpressed_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_top_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_default_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__toast_frame.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__toast_frame.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_default_pressed_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_default_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__spinner_ab_focused_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/textfield_multiline_focused_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/textfield_multiline_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/dialog_bottom_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/dialog_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_secondary_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate1.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate1.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/scrubber_control_disabled_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progress_secondary_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disabled_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/progressbar_indeterminate2.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/progressbar_indeterminate2.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__list_pressed_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_disabled_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_disabled_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_disabled_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ab_solid_shadow_holo.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_off_focused_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_off_focused_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__progress_bg_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/src/main/res/drawable-mdpi/btn_check_on_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__ic_menu_share_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__cab_background_bottom_holo_light.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_off_holo_dark.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_off_holo_dark.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_radio_on_focused_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/btn_check_on_pressed_holo_light.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/res/merged/release/drawable-mdpi-v4/spinner_20_inner_holo.png",
+        "source": "/home/mtsimon/StudioProjects/com.androidthermostat.client/comandroidthermostatclient/build/intermediates/exploded-aar/com.androidthermostat.client/holoEverywhereLib/unspecified/res/drawable-mdpi-v4/spinner_20_inner_holo.png"
+    }
+]

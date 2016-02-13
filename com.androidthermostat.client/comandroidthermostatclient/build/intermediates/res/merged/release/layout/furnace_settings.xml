@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:atc="http://schemas.android.com/apk/res/com.androidthermostat.client" android:layout_width="fill_parent" android:layout_height="fill_parent">
+	<LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="20dp"  >
+
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left" android:text="Hardware Revision"  android:layout_weight="30" />
+		    <RadioGroup android:layout_width="0px" android:layout_height="wrap_content" android:orientation="horizontal" android:id="@+id/hardwareRadio" android:layout_weight="70">
+				<RadioButton android:id="@+id/hardware1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="A" />
+				<RadioButton android:id="@+id/hardware2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="B" />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="C"
+                    android:id="@+id/hardware3"
+                    android:checked="false"/>
+            </RadioGroup>
+			<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/temp_swing" atc:message_id="@string/hardware_help" />
+		</LinearLayout>
+		
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left" android:text="Temperature Swing"  android:layout_weight="30" />
+		    <RadioGroup android:layout_width="0px" android:layout_height="wrap_content" android:orientation="horizontal" android:id="@+id/swingRadio" android:layout_weight="70">
+				<RadioButton android:id="@+id/swing1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1" />
+				<RadioButton android:id="@+id/swing2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2" />
+				<RadioButton android:id="@+id/swing3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="3" />
+			</RadioGroup>
+			<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/temp_swing" atc:message_id="@string/temp_swing_help" />
+		</LinearLayout>
+	    
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:text="Temp. Calibration"  android:layout_weight="30" />
+		    <EditText android:id="@+id/temperatureCalibration" android:layout_width="0px" android:layout_height="wrap_content" android:inputType="numberDecimal|numberSigned" android:layout_weight="70" />
+		    <com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/temp_calibration" atc:message_id="@string/temp_calibration_help" />
+		</LinearLayout>
+		
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:text="Running Calib."  android:layout_weight="30" />
+		    <EditText android:id="@+id/temperatureCalibrationRunning" android:layout_width="0px" android:layout_height="wrap_content" android:inputType="numberDecimal|numberSigned" android:layout_weight="70" />
+		    <com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/temp_calibration_running" atc:message_id="@string/temp_calibration_running_help" />
+		</LinearLayout>
+		
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:text="Calib. Seconds"  android:layout_weight="30" />
+		    <EditText android:id="@+id/calibrationSeconds" android:layout_width="0px" android:layout_height="wrap_content" android:inputType="number" android:layout_weight="70" />
+		    <com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/calibration_seconds" atc:message_id="@string/calibration_seconds_help" />
+		</LinearLayout>
+	    
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left" android:text="Run Fan w/Cool"  android:layout_weight="30" />
+		    <RadioGroup android:layout_width="0px" android:layout_height="wrap_content" android:orientation="horizontal" android:id="@+id/fanOnCoolRadio" android:layout_weight="70">
+				<RadioButton android:id="@+id/fanOnCoolYes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Yes" />
+				<RadioButton android:id="@+id/fanOnCoolNo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No" />
+			</RadioGroup>
+			<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/fan_on_cool" atc:message_id="@string/fan_on_cool_help" />
+		</LinearLayout>
+	    
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left"  android:layout_weight="30" android:text="Min. Cool Cycle" android:paddingTop="20sp"/>
+	    	<EditText android:id="@+id/minCoolInterval" android:layout_width="0px" android:layout_height="wrap_content" android:inputType="number"  android:layout_weight="70" />
+	    	<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/min_cool" atc:message_id="@string/min_cool_help" />
+	    </LinearLayout>
+
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left" android:text="Min. Heat Cycle" android:paddingTop="20sp"  android:layout_weight="30" />
+	    	<EditText android:id="@+id/minHeatInterval" android:layout_width="0px" android:layout_height="wrap_content" android:inputType="number" android:layout_weight="70" />
+	    	<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/min_heat" atc:message_id="@string/min_heat_help" />
+	    </LinearLayout>
+	    
+	    
+	    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+	    	<TextView android:layout_width="0px" android:layout_height="wrap_content" android:gravity="left" android:text="Fan circulation"  android:paddingTop="20sp"  android:layout_weight="30" />
+	    	<LinearLayout android:layout_width="0px" android:layout_height="wrap_content" android:orientation="horizontal" android:layout_weight="70" >
+    	    	<ToggleButton android:id="@+id/cycleFanSwitch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textOn="On" android:textOff="Off" />
+    	    	<LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="vertical" >
+	    	    	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+			    	    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Turn on for " />
+				    	<EditText android:id="@+id/cycleFanOnText" android:layout_width="60dp" android:layout_height="wrap_content" android:inputType="number" />
+				    	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" minutes"/>
+				    </LinearLayout>
+					<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal" >
+				    	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="then off for "/>
+				    	<EditText android:id="@+id/cycleFanOffText" android:layout_width="60dp" android:layout_height="wrap_content" android:inputType="number" />
+				    	<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=" minutes. "/>
+			    	</LinearLayout>
+		    	</LinearLayout>
+	    	</LinearLayout>
+	    	<com.androidthermostat.client.controls.HelpControl android:layout_width="wrap_content" android:layout_height="wrap_content" atc:title_id="@string/fan_circulation" atc:message_id="@string/fan_circulation_help" />
+		</LinearLayout>
+		
+
+  	</LinearLayout>
+</ScrollView>
