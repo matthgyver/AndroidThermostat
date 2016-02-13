@@ -13,7 +13,7 @@ An Android based home thermostat project.  For full details see AndroidThermosta
 ## MatthGyver update
 
 Migrate project from Eclipse to AndroidStudio.<br>
-My modifications is compatible with Android 4+ (tested on Nexus / KitKat)
+My modifications are compatible with Android 4+ (tested on Nexus / KitKat)
 
 Now it is not necessary to activate the USB debug mode.<br>
 Weather are updated with last Openweathermap API.
