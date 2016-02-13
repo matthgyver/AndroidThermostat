@@ -16,6 +16,7 @@ Migrate project from Eclipse to AndroidStudio
 My modifications is compatible with Android 4+ (tested on Nexus / KitKat)
 
 Now it is not necessary to activate the USB debug mode.
+Weather are updated with last Openweathermap API.
 
 I'm not a developer and provided this version <b>without any warranty so use this version to your own risk.</b>
 
